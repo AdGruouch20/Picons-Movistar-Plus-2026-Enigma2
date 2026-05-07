@@ -8,9 +8,9 @@
 
 ## Características
 
-* [cite_start]**Formato:** .png 
-* [cite_start]**Nombres:** Basados en programación oficial de Movistar Plus+ 
-* [cite_start]**Resolución:** 800 x 400
+* **Formato:** .png 
+* **Nombres:** Basados en programación oficial de Movistar Plus+ 
+* **Resolución:** 800 x 400
 
 
 ## Capturas 
