@@ -21,7 +21,6 @@
   <img src="assets/DAZN 1.png" width="250">
 </div>
 
-(Imágenes que te acabo de pasar)
 
 
 ##  Sugerencias
