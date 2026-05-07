@@ -25,8 +25,3 @@ Proyecto hecho con la intención de ofrecer unos logos de canales actualizados, 
 
 ##  Sugerencias
 Si falta algún canal nuevo o hay un cambio de frecuencia, contacta a mi Reddit: @AdGrouchy2110
-
-
-
-
-**Autor:** AdGrouch
