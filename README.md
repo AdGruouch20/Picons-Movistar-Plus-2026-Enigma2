@@ -4,7 +4,7 @@
 
 # Picons Movistar Plus+ 2026 | Enigma2
 
-[cite_start]Proyecto hecho con la intención de ofrecer unos logos de canales actualizados, limpios y estéticos para mejorar la interfaz de tu decodificador.
+Proyecto hecho con la intención de ofrecer unos logos de canales actualizados, limpios y estéticos para mejorar la interfaz de tu decodificador.
 
 ## Características
 
@@ -25,6 +25,7 @@
 
 ##  Sugerencias
 Si falta algún canal nuevo o hay un cambio de frecuencia, contacta a mi Reddit: @AdGrouchy2110
+
 
 
 
